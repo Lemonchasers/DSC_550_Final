@@ -1,0 +1,11 @@
+Here is the top 10 counted values
+('.', 125)
+('OCLC .', 19)
+('Ed.', 17)
+('Accessed , 2010.', 15)
+("''P.", 14)
+('*', 9)
+('sect.', 8)
+('* Shelley, Mary.', 8)
+("''M.", 8)
+('2010.', 6)
